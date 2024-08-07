@@ -1,6 +1,6 @@
 # Adidas Sales Dashboard using Power Bi
 
-![Designer](https://github.com/user-attachments/assets/92b30ed8-6997-417a-a272-0af02911732f)
+![Designer (1)](https://github.com/user-attachments/assets/d17707a8-601e-431c-85bc-570860901abe)
 
 # Project Title - Adidas Sales Data Analysis
 
