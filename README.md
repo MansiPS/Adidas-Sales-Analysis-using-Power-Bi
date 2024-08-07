@@ -44,48 +44,39 @@ Fueled by a Passion for Exploring the Intersection of Data and Sportswear and a 
 
 The HR Analytics Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Raw Data Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16519099/Raw.Data.xlsx)
+- Raw Data Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16530798/Raw.Data.xlsx)
 
 ## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
 
-- Track Name : Name of the Music Track.🎵
-- Artist(s) Name : Name(s) of the Artist(s) who Performed the Track.🎤
-- Artist_Count : Number of Distinct Artists involved in the Track.👥
-- Released Year : Year the Track was Released.📅
-- Released Month: Month the Track was Released.📅
-- Released Day : Day the Track was Released.📅
-- In Spotify Playlists : Number of Spotify Playlists featuring the Track.🎧
-- In Spotify Charts : Chart Position of the Track on Spotify.📈
-- Streams : Number of Times the Track has been Streamed.🔊
-- In Apple Playlists : Number of Apple Music Playlists featuring the Track.🎵
-- In Apple Charts : Chart Position of the Track on Apple Music.📈
-- In Deezer Playlists : Number of Deezer Playlists featuring the Track.🎵
-- In Deezer Charts : Chart Position of the Track on Deezer.📈
-- In Shazam Charts : Chart  Position of the Track on Shazam.📈
-- Bpm : Beats per Minute of the Track.🕒
-- Key : Musical Key of the Track.🎶
-- Mode : Musical Mode of the Track.🎵
-- Danceability % : Percentage Indicating how Suitable the Track is for Dancing.💃
-- Valence % : Percentage Representing the Track's Musical Positiveness.😊
-- Energy % : Percentage Indicating the Track's Energy Level.⚡
-- Acousticness % : Percentage of the Track that is Acoustic.🎸
-- Instrumentalness % : Percentage of the Track that is Instrumental.🎻
-- Liveness %: Percentage Representing the Track's Live Performance Quality.🎤
-- Speechiness % : Percentage Indicating the Presence of Spoken Words in the Track.🗣️
-- Cover Url : URL of the Track’s Cover Image.🖼️
+- Retailer : The Name or Identifier of the Retailer Responsible for the Sales.🏬
+- Retailer ID : A Unique Identifier Assigned to each Retailer for Tracking Purposes.🔢
+- Invoice Date : The Date on which the Invoice was issued for the Transaction.📅
+- Region : The Geographical Region where the Sales Occurred.🌍
+- State : The Specific State within the Region where the Sales Occurred.🗺️
+- City : The City within the State where the Sales took Place.🏙️
+- Product : The Item or Service being Sold.🛒
+- Cost Price per Unit : The Price at which each Unit of the Product was Purchased.💵
+- Selling Price per Unit : The Price at which each Unit of the Product was Sold.💸
+- Units Sold : The Total number of Units sold in the Transaction.📦
+- Total Sales : The Total Revenue generated from the Sale of the Product.💰
+- Budget : The Allocated Financial Plan for the Sales Activities.📊
+- Operating Margin : The Percentage of Revenue remaining after Covering operating Expenses.📈
+- Operating Profit : The Profit made from Sales after Subtracting Operating Expenses.🤑
+- Sales Method : The Approach or Strategy used to make the Sales.🛍️
 
 # Requirement
 
-- ✅ Total Tracks🎵
-- ✅ Total Streams🎶
-- ✅ Average Streams🎶
-- ✅ Stream by Release Date📅
-- ✅ Tracks and Stream by Month📅
-- ✅ Daily Streams.🎧
-- ✅ Artist Most Streamed Track👥
-- ✅ Top 5 Most Streamed Tracks🎤🎻🎵🎸
+- ✅ 2020 Sales📊
+- ✅ 2021 Sales📊
+- ✅ Growth %📈
+- ✅ Total Budget💰
+- ✅ Total Sales
+- ✅ 2021 Sales by Retailer
+- ✅ 2021 Sales by Region🌍
+- ✅ Sales by Product
+- ✅ Sales by Month📅
 
 
 # ✅ Installation : ETL Tools ✅
