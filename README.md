@@ -34,11 +34,11 @@ Additionally, the Dashboard boasts a Distinctive Feature allowing users to Seaml
 
 # 🚀 Project Goal
 
-To Elucidate Complex Patterns and Trends within Spotify's Extensive Dataset, delivering Actionable Insights through an Elegantly Engineered Analytical Dashboard.
+To Provide an Advanced Analysis of Adidas Sales Data for 2020 and 2021, Revealing Key Metrics and Trends to Inform Strategic Business Decisions and Optimize Sales Strategies.
 
 # Project Motivation
 
-Driven by a Deep-seated Fascination with Spotify's Transformative Role in Reshaping Musical Engagement, this Project seeks to Unravel the Nuanced Dynamics of its Global Listening Phenomena.
+Fueled by a Passion for Exploring the Intersection of Data and Sportswear and a Desire to Further Career Expertise in Data Analysis, this Project seeks to Illuminate Sales Trends and Drive Impactful Business Insights.
 
 # ⏳ Dataset
 
