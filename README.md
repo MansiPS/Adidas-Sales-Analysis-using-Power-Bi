@@ -96,24 +96,41 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
 
-![Dashboard](https://github.com/user-attachments/assets/c9be2ff0-359d-4f72-87f2-1ff782bde728)
+- Light Theme🌤️
+![Dashboard 1](https://github.com/user-attachments/assets/03633a58-8666-497f-92e6-7022bcc8ad1b)
 
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Tracks🎧, Date📅 and Artists👥. 
+- Dark Theme🌙
+![Dashboard 2](https://github.com/user-attachments/assets/e93f448c-75a4-4d4b-87f1-6508e9656e73)
 
-This Illustrates the Analysis of Songs Released between "1st January 1990" to "31st January 2018".📍
-![Analysis 1](https://github.com/user-attachments/assets/5ee35659-00d5-4968-81da-c35aac25fd37)
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Month 📅. 
 
-This Illustrates the Analysis of 5th Most Streamed Track.📍
-![Analysis 2](https://github.com/user-attachments/assets/7801a8fa-aa86-4547-b6f6-2c9fe64b495a)
+This Illustrates the Analysis of Sales till the Month "November" 2021.📍
+![Analysis 1](https://github.com/user-attachments/assets/27bc76c8-15d5-49dd-9dbe-2515353e2b35)
 
-This Illustrates the Analysis of Track with the Name "Shivers".📍
-![Analysis 3](https://github.com/user-attachments/assets/4cc20222-ea3f-4b11-915a-fc77223a5bc7)
+This Illustrates the Analysis of Sales till the Month "February" 2021.📍
+![Analysis 2](https://github.com/user-attachments/assets/8b70965b-1c70-4b5a-97c9-600a1d764089)
 
-This Illustrates the Analysis of Artist with the Name "Justin Bieber".📍
-![Analysis 4](https://github.com/user-attachments/assets/237a3fdd-f4ea-44ca-8ba1-640f9b8266ed)
+This Illustrates the Analysis of Sales till the Month "May" 2021.📍
+![Analysis 3](https://github.com/user-attachments/assets/50f24b00-b0e3-4ffc-a24e-e204e6a4eb76) 
 
-This Illustrates the Analysis of Artist with the Name "Imagine Dragons".📍
-![Analysis 5](https://github.com/user-attachments/assets/a3bf10fd-3012-43f0-a4f0-f542b1a94c91)
+This Illustrates the Analysis of Sales in the Region "West" till the Month "August" 2021📍
+![Analysis 4](https://github.com/user-attachments/assets/2f42e0fc-b1bb-4180-bbc5-f63db2b4c1d0)
+
+This Illustrates the Analysis of Sales in the Region "Mid-West" till the Month "August" 2021📍
+![Analysis 5](https://github.com/user-attachments/assets/173f72e8-e7a7-4545-9e0f-22cf578b672a)
+
+This Illustrates the Analysis of Sales in the Region "South" till the Month "August" 2021📍
+![Analysis 6](https://github.com/user-attachments/assets/5ba4e932-e48b-4fe2-80db-2e48e93e6f91)
+
+This Illustrates the Analysis of Sales in the Retailer "Foot Locker" till the Month "August" 2021📍
+![Analysis 7](https://github.com/user-attachments/assets/50a1afc4-765b-4e95-8c0f-7bccfcea7b4b)
+
+This Illustrates the Analysis of Sales in the Retailer "Sports Direct" till the Month "August" 2021📍
+![Analysis 8](https://github.com/user-attachments/assets/2bfdf2e4-5827-4eb8-8b0f-7d5e244a425f)
+
+This Illustrates the Analysis of Sales in the Retailer "Amazon" till the Month "August" 2021📍
+![Analysis 9](https://github.com/user-attachments/assets/2a76b2f4-ea2e-4d74-95fc-615a98e7ee96)
+
 
 # Author 🙎‍♀️  
 
