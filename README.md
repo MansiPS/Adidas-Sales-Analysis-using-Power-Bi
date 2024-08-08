@@ -122,13 +122,13 @@ This Illustrates the Analysis of Sales in the Region "Mid-West" for the Month "A
 This Illustrates the Analysis of Sales in the Region "South" for the Month "August".📍
 ![Analysis 6](https://github.com/user-attachments/assets/5ba4e932-e48b-4fe2-80db-2e48e93e6f91)
 
-This Illustrates the Analysis of Sales in the Retailer "Foot Locker" for the Month "August".📍
+This Illustrates the Analysis of Sales by the Retailer "Foot Locker" for the Month "August".📍
 ![Analysis 7](https://github.com/user-attachments/assets/50a1afc4-765b-4e95-8c0f-7bccfcea7b4b)
 
-This Illustrates the Analysis of Sales in the Retailer "Sports Direct" for the Month "August".📍
+This Illustrates the Analysis of Sales by the Retailer "Sports Direct" for the Month "August".📍
 ![Analysis 8](https://github.com/user-attachments/assets/2bfdf2e4-5827-4eb8-8b0f-7d5e244a425f)
 
-This Illustrates the Analysis of Sales in the Retailer "Amazon" for the Month "August".📍
+This Illustrates the Analysis of Sales by the Retailer "Amazon" for the Month "August".📍
 ![Analysis 9](https://github.com/user-attachments/assets/2a76b2f4-ea2e-4d74-95fc-615a98e7ee96)
 
 
