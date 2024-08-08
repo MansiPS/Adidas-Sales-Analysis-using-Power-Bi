@@ -104,31 +104,31 @@ Comprehensive Analysis has been conducted on the Dataset, illustrated through a 
 
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Month 📅. 
 
-This Illustrates the Analysis of Sales till the Month "November" 2021.📍
+This Illustrates the Analysis of Sales in the Month "November" 2021.📍
 ![Analysis 1](https://github.com/user-attachments/assets/27bc76c8-15d5-49dd-9dbe-2515353e2b35)
 
-This Illustrates the Analysis of Sales till the Month "February" 2021.📍
+This Illustrates the Analysis of Sales in the Month "February" 2021.📍
 ![Analysis 2](https://github.com/user-attachments/assets/8b70965b-1c70-4b5a-97c9-600a1d764089)
 
-This Illustrates the Analysis of Sales till the Month "May" 2021.📍
+This Illustrates the Analysis of Sales in the Month "May" 2021.📍
 ![Analysis 3](https://github.com/user-attachments/assets/50f24b00-b0e3-4ffc-a24e-e204e6a4eb76) 
 
-This Illustrates the Analysis of Sales in the Region "West" till the Month "August" 2021📍
+This Illustrates the Analysis of Sales in the Region "West" for the Month "August" 2021📍
 ![Analysis 4](https://github.com/user-attachments/assets/2f42e0fc-b1bb-4180-bbc5-f63db2b4c1d0)
 
-This Illustrates the Analysis of Sales in the Region "Mid-West" till the Month "August" 2021📍
+This Illustrates the Analysis of Sales in the Region "Mid-West" for the Month "August" 2021📍
 ![Analysis 5](https://github.com/user-attachments/assets/173f72e8-e7a7-4545-9e0f-22cf578b672a)
 
-This Illustrates the Analysis of Sales in the Region "South" till the Month "August" 2021📍
+This Illustrates the Analysis of Sales in the Region "South" for the Month "August" 2021📍
 ![Analysis 6](https://github.com/user-attachments/assets/5ba4e932-e48b-4fe2-80db-2e48e93e6f91)
 
-This Illustrates the Analysis of Sales in the Retailer "Foot Locker" till the Month "August" 2021📍
+This Illustrates the Analysis of Sales in the Retailer "Foot Locker" for the Month "August" 2021📍
 ![Analysis 7](https://github.com/user-attachments/assets/50a1afc4-765b-4e95-8c0f-7bccfcea7b4b)
 
-This Illustrates the Analysis of Sales in the Retailer "Sports Direct" till the Month "August" 2021📍
+This Illustrates the Analysis of Sales in the Retailer "Sports Direct" for the Month "August" 2021📍
 ![Analysis 8](https://github.com/user-attachments/assets/2bfdf2e4-5827-4eb8-8b0f-7d5e244a425f)
 
-This Illustrates the Analysis of Sales in the Retailer "Amazon" till the Month "August" 2021📍
+This Illustrates the Analysis of Sales in the Retailer "Amazon" for the Month "August" 2021📍
 ![Analysis 9](https://github.com/user-attachments/assets/2a76b2f4-ea2e-4d74-95fc-615a98e7ee96)
 
 
