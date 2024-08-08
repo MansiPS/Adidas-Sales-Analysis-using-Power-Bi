@@ -104,14 +104,14 @@ Comprehensive Analysis has been conducted on the Dataset, illustrated through a 
 
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Month 📅. 
 
-This Illustrates the Analysis of Sales in the Month "November".📍
-![Analysis 1](https://github.com/user-attachments/assets/27bc76c8-15d5-49dd-9dbe-2515353e2b35)
-
 This Illustrates the Analysis of Sales in the Month "February".📍
 ![Analysis 2](https://github.com/user-attachments/assets/8b70965b-1c70-4b5a-97c9-600a1d764089)
 
 This Illustrates the Analysis of Sales in the Month "May".📍
 ![Analysis 3](https://github.com/user-attachments/assets/50f24b00-b0e3-4ffc-a24e-e204e6a4eb76) 
+
+This Illustrates the Analysis of Sales in the Month "November".📍
+![Analysis 1](https://github.com/user-attachments/assets/27bc76c8-15d5-49dd-9dbe-2515353e2b35)
 
 This Illustrates the Analysis of Sales in the Region "West" for the Month "August".📍
 ![Analysis 4](https://github.com/user-attachments/assets/2f42e0fc-b1bb-4180-bbc5-f63db2b4c1d0)
